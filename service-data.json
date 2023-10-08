@@ -5,14 +5,14 @@
     "service": "Wedding Planning Packages",
     "description": "Our Wedding Planning Packages offer comprehensive solutions for couples looking to create a perfect wedding day. From initial consultations to on-the-day coordination, we handle every detail. Our packages can be tailored to suit various budgets and preferences, ensuring a stress-free and memorable experience.",
     "price": "$3000",
-    "image": "https://example.com/wedding-planning-packages.jpg"
+    "image": "https://i.ibb.co/HCLy3Fs/wedding-photography-cq-Bb-Xf1r-LS0-unsplash.jpg"
   },
   {
     "id": "2b",
     "service": "Theme and Decor Design",
     "description": "Transform your wedding venue into a magical space with our Theme and Decor Design service. We work closely with couples to understand their vision and create stunning decor themes. From floral arrangements to lighting and table settings, we curate every element to match the chosen theme, making your wedding truly unique and visually enchanting.",
     "price": "$2500",
-    "image": "https://example.com/theme-and-decor-design.jpg"
+    "image": "https://i.ibb.co/TgPQ74f/newlyweds-initials-stand-hang-before-light-garlands.jpg"
   },
   {
     "id": "3c",
