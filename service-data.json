@@ -1,44 +1,45 @@
+
 [
   {
-    "id": "1a3e",
-    "service": "Day-of Coordination",
-    "description": "Our Day-of Coordination service ensures your wedding day runs seamlessly. Our experienced coordinators handle all the details, manage vendors, and oversee the timeline. We're dedicated to making your special day stress-free and unforgettable.",
+    "id": "1a",
+    "service": "Wedding Planning Packages",
+    "description": "Our Wedding Planning Packages offer comprehensive solutions for couples looking to create a perfect wedding day. From initial consultations to on-the-day coordination, we handle every detail. Our packages can be tailored to suit various budgets and preferences, ensuring a stress-free and memorable experience.",
+    "price": "$3000",
+    "image": "https://example.com/wedding-planning-packages.jpg"
+  },
+  {
+    "id": "2b",
+    "service": "Theme and Decor Design",
+    "description": "Transform your wedding venue into a magical space with our Theme and Decor Design service. We work closely with couples to understand their vision and create stunning decor themes. From floral arrangements to lighting and table settings, we curate every element to match the chosen theme, making your wedding truly unique and visually enchanting.",
+    "price": "$2500",
+    "image": "https://example.com/theme-and-decor-design.jpg"
+  },
+  {
+    "id": "3c",
+    "service": "Photography and Videography Packages",
+    "description": "Capture your special moments with our Photography and Videography Packages. Our talented team of photographers and videographers will document your wedding day, ensuring that every smile, tear, and laugh is preserved beautifully. Choose from a variety of packages, including pre-wedding shoots.",
+    "price": "$3500",
+    "image": "https://example.com/photography-and-videography-packages.jpg"
+  },
+  {
+    "id": "4d",
+    "service": "Catering and Menu Planning",
+    "description": "Delight your guests with our Catering and Menu Planning service. We offer a diverse range of menu options tailored to your preferences. Our expert chefs create delectable dishes, ensuring a delightful culinary experience for your guests.",
+    "price": "$50 per person",
+    "image": "https://example.com/catering-and-menu-planning.jpg"
+  },
+  {
+    "id": "5e",
+    "service": "Bridal Styling and Makeup",
+    "description": "Enhance your natural beauty with our Bridal Styling and Makeup service. Our skilled makeup artists and stylists work closely with brides to create stunning looks that complement their personality and attire. Feel confident and radiant on your special day.",
+    "price": "$600",
+    "image": "https://example.com/bridal-styling-and-makeup.jpg"
+  },
+  {
+    "id": "6f",
+    "service": "Transportation Services",
+    "description": "Arrive in style with our Transportation Services. We offer a fleet of luxurious vehicles to transport you and your guests to and from the venue. Enjoy a comfortable and elegant ride, adding a touch of sophistication to your wedding day.",
     "price": "$800",
-    "image": "https://example.com/day-of-coordination.jpg"
-  },
-  {
-    "id": "7b2f",
-    "service": "Vendor Coordination",
-    "description": "Our Vendor Coordination service takes the hassle out of finding and coordinating with vendors. We work closely with florists, photographers, caterers, and musicians, ensuring they align with your vision. Let us handle the vendor details, so you can focus on enjoying your celebration.",
-    "price": "$500 + Vendor Costs",
-    "image": "https://example.com/vendor-coordination.jpg"
-  },
-  {
-    "id": "2c9d",
-    "service": "Venue Selection Assistance",
-    "description": "Choosing the perfect wedding venue is crucial. Our Venue Selection Assistance service helps you find a venue that fits your style and budget. We present you with curated options, arrange site visits, and negotiate contracts. Your dream venue is just a step away.",
-    "price": "$300",
-    "image": "https://example.com/venue-selection.jpg"
-  },
-  {
-    "id": "4e1g",
-    "service": "Consultation and Planning Sessions",
-    "description": "Our Consultation and Planning Sessions offer personalized guidance. We provide you with a comprehensive wedding planning checklist, budgeting tips, and expert advice during one-on-one sessions. Let us help you turn your wedding vision into a reality.",
-    "price": "$50 per hour",
-    "image": "https://example.com/consultation-planning.jpg"
-  },
-  {
-    "id": "8f6h",
-    "service": "Small Intimate Weddings",
-    "description": "For those seeking an intimate celebration, our Small Intimate Weddings service is tailored just for you. We specialize in creating cozy, personalized weddings. From venue selection to decor, we ensure every detail reflects your love story. Starting from $1,500.",
-    "price": "Starting from $1,500",
-    "image": "https://example.com/small-intimate-weddings.jpg"
-  },
-  {
-    "id": "5d7i",
-    "service": "Elopement Packages",
-    "description": "Escape the traditional wedding with our Elopement Packages. We offer unique elopement experiences, including breathtaking locations, officiant services, and basic decor options. Let us plan your intimate ceremony, making it truly magical. Packages starting at $700.",
-    "price": "$700",
-    "image": "https://example.com/elopement-packages.jpg"
+    "image": "https://example.com/transportation-services.jpg"
   }
 ]
