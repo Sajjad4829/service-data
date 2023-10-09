@@ -4,42 +4,42 @@
     "id": "1a",
     "service": "Wedding Planning Packages",
     "description": "Our Wedding Planning Packages offer comprehensive solutions for couples looking to create a perfect wedding day. From initial consultations to on-the-day coordination, we handle every detail. Our packages can be tailored to suit various budgets and preferences, ensuring a stress-free and memorable experience.",
-    "price": "$3000",
+    "price": "$3000.00",
     "image": "https://i.ibb.co/HCLy3Fs/wedding-photography-cq-Bb-Xf1r-LS0-unsplash.jpg"
   },
   {
     "id": "2b",
     "service": "Theme and Decor Design",
     "description": "Transform your wedding venue into a magical space with our Theme and Decor Design service. We work closely with couples to understand their vision and create stunning decor themes. From floral arrangements to lighting and table settings, we curate every element to match the chosen theme, making your wedding truly unique and visually enchanting.",
-    "price": "$2500",
+    "price": "$2500.00",
     "image": "https://i.ibb.co/TgPQ74f/newlyweds-initials-stand-hang-before-light-garlands.jpg"
   },
   {
     "id": "3c",
     "service": "Photography and Videography Packages",
     "description": "Capture your special moments with our Photography and Videography Packages. Our talented team of photographers and videographers will document your wedding day, ensuring that every smile, tear, and laugh is preserved beautifully. Choose from a variety of packages, including pre-wedding shoots.",
-    "price": "$3500",
+    "price": "$3500.00",
     "image": "https://i.ibb.co/h8F1k8j/alexander-jawfox-S2-Px-Q1x-Yorw-unsplash.jpg"
   },
   {
     "id": "4d",
     "service": "Catering and Menu Planning",
     "description": "Delight your guests with our Catering and Menu Planning service. We offer a diverse range of menu options tailored to your preferences. Our expert chefs create delectable dishes, ensuring a delightful culinary experience for your guests.",
-    "price": "$50 per person",
+    "price": "$50.00 per person",
     "image": "https://i.ibb.co/BPvRsNL/director-restaurant-is-giving-work-instructions-waitresses.jpg"
   },
   {
     "id": "5e",
     "service": "Bridal Styling and Makeup",
     "description": "Enhance your natural beauty with our Bridal Styling and Makeup service. Our skilled makeup artists and stylists work closely with brides to create stunning looks that complement their personality and attire. Feel confident and radiant on your special day.",
-    "price": "$600",
+    "price": "$600.00",
     "image": "https://i.ibb.co/DV07ycZ/makeup-artist-covering-model-face-by-powder.jpg"
   },
   {
     "id": "6f",
     "service": "Transportation Services",
     "description": "Arrive in style with our Transportation Services. We offer a fleet of luxurious vehicles to transport you and your guests to and from the venue. Enjoy a comfortable and elegant ride, adding a touch of sophistication to your wedding day.",
-    "price": "$800",
+    "price": "$800.00",
     "image": "https://i.ibb.co/2MJdX9N/beautiful-wedding-couple-is-smiling-black-car-sunny-day-dressed-elegant-wedding-outfits-with-red-bou.jpg"
   }
 ]
